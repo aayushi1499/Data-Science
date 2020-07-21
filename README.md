@@ -1,2 +1,3 @@
 # Data-Science
-Python Kaggle Courses
+* Python Kaggle Courses
+* Mini Projects
